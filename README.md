@@ -1,10 +1,12 @@
 # quaryonic_eos
 n-u-d version of quarkyonic matter EOS based on https://arxiv.org/abs/2004.08293
 
-The code runs on Python 3. Download it here: https://www.anaconda.com/products/individual#linux
+The code runs on Python 3. Download it here: https://www.anaconda.com/products/individual#linux. Parallel library 'joblib' is used to speed up program. It is inincluded in the folder 'joblib' here already.
 
 It should work by typing in terminal:
->>python3 main_eos_table.py
+
+>python3 main_eos_table.py
+
 A folder with tables of EOS will be generated.
 
 Source files:
