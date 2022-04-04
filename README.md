@@ -1,7 +1,7 @@
 # quaryonic_eos
 n-u-d version of quarkyonic matter EOS based on https://arxiv.org/abs/2004.08293
 
-The code runs on Python 3. Download it here: https://www.anaconda.com/products/individual#linux. Parallel library 'joblib' is used to speed up program. It is inincluded in the folder 'joblib' here already.
+The code runs on Python 3. Download it here: https://www.anaconda.com/products/individual#linux. Parallel library 'joblib' is used to speed up program. It is inincluded in the folder 'joblib' here already. Check latest version of 'joblib' here https://github.com/joblib/joblib.
 
 It should work by typing in terminal:
 
